@@ -12,6 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Vue3](https://img.shields.io/badge/-Vue3.js-333333?style=flat&logo=vue3)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/juan-david-munoz-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan David-blue?style=flat-square&logo=linkedin"></a>
