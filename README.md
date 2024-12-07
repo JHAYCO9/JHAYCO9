@@ -14,7 +14,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue3](https://img.shields.io/badge/Vue-3-green)
 
-### Contact Me
+### Contact Me 
 <a href="https://www.linkedin.com/in/juan-david-munoz-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan David-blue?style=flat-square&logo=linkedin"></a>
 <a href="juanmunozrojas95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-juanmunozrojas95@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 
