@@ -6,7 +6,7 @@
 - I am a creative person who seeks to learn and improve every day.
 - I like the frontend because I like to give a good visual experience to people who look at my projects.
 
-### Technologies
+### Technologies 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
