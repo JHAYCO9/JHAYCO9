@@ -21,4 +21,4 @@
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JHAYCO9&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JHAYCO9&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JHAYCO9&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JHAYCO9&show_icons=true) 
