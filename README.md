@@ -19,7 +19,5 @@
 <a href="https://www.linkedin.com/in/juan-david-munoz-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan David-blue?style=flat-square&logo=linkedin"></a>
 <a href="juanmunozrojas95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-juanmunozrojas95@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 
-
-![GitHub Activity]
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JHAYCO9&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JHAYCO9&show_icons=true) 
