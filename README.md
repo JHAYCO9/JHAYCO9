@@ -45,7 +45,6 @@
 ## 📌 Intereses
 
 - 🌐 Desarrollo de aplicaciones web full-stack.
-- ⚽ Análisis de datos de fútbol y plataformas predictivas.
 - 🗄️ Diseño de bases de datos y desarrollo de APIs.
 - 🖥️ Aplicaciones de escritorio y arquitectura de software.
 
