@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas en Colombia.w
+- 🎓 Estudiante de Ingeniería de Sistemas en Colombia.
 - ⚙️ Trabajo con frontend, servicios backend, APIs y bases de datos.
 - 🌱 Aprendiendo constantemente: arquitectura de software y buenas prácticas.
 
